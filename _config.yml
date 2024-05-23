@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Li Lin"
-  pronouns         : "she/her"  
+  # pronouns         : "she/her"  
   bio              : "Assistant Professor"
   location         : "Nanjing, China"
   employer         : "Southeast University"
