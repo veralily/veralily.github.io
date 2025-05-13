@@ -99,6 +99,7 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
         
     md += "\nRecommended citation: " + item.citation
+    md += "\nAuthors: " + item.author
     
     md_filename = os.path.basename(md_filename)
        
