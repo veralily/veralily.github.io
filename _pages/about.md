@@ -27,7 +27,7 @@ In particular, I am interested in multimodel LLMs and focusing on:
 
 Publications
 ======
-
+<span style="background-color: yellow;">New</span>
 
 Prospective Students
 ======
