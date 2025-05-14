@@ -13,8 +13,8 @@ I am also affiliated with the [DiTing (Data FusIon and IoT IntelliGence) Lab](ht
 
 Education
 ======
-* Ph.D in School of Software, Tsinghua University, 2022
-* B.S. in Department of Computer Science and Techonology, Xi'an Jiaotong University, 2016
+* Ph.D. in School of Software, Tsinghua University, 2022
+* B.S. in Department of Computer Science and Technology, Xi'an Jiaotong University, 2016
 
 
 Research Outline
