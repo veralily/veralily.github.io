@@ -27,7 +27,10 @@ In particular, I am interested in multimodel LLMs and focusing on:
 
 Publications
 ======
-<span style="background-color: yellow;">New</span>
+You can also find the publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+<span style="background-color: yellow;">New</span> &nbsp;  *Kaiwen Xia, Li Lin, Shuai Wang, Qi Zhang, Shuai Wang, and Tian He.* ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction. (KDD '25).
+
+<span style="background-color: yellow;">New</span> &nbsp;*Shuai Wang; Hai Wang; Li Lin; Xiaohui Zhao; Tian He; Dian Shen.* HPST-GT: Full-Link Delivery Time Estimation Via Heterogeneous Periodic Spatial-Temporal Graph Transformer. (TKDE 2025).
 
 Prospective Students
 ======
