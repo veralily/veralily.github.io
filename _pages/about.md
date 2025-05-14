@@ -29,6 +29,10 @@ Publications
 ======
 You can also find the publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
+<span style="background-color: yellow;">New</span> &nbsp; _**Li Lin**; Kaiwen Xia; Haotian Shen; Shuai Wang._ CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling. (DASFAA '25)
+
+<span style="background-color: yellow;">New</span> &nbsp; _Xinwei Li; **Li Lin\***; Shuai Wang; Hanqian Wu._ Seeing Beyond Hallucinations: LLM-based Compositional Information Extraction for Multimodal Reasoning. (SIGIR '25)
+
 <span style="background-color: yellow;">New</span> &nbsp;  _Kaiwen Xia, **Li Lin\***, Shuai Wang, Qi Zhang, Shuai Wang, and Tian He._ ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction. (KDD '25)
 
 <span style="background-color: yellow;">New</span> &nbsp;_Shuai Wang; Hai Wang; **Li Lin\***; Xiaohui Zhao; Tian He; Dian Shen._ HPST-GT: Full-Link Delivery Time Estimation Via Heterogeneous Periodic Spatial-Temporal Graph Transformer. (TKDE 2025)
@@ -44,6 +48,10 @@ _**Li Lin**; Xinyao Chen; Kaiwen Xia; Shuai Wang; Desheng Zhang; Tian He._ Hiera
 _**Li Lin**; Zhiqiang Lu; Shuai Wang; Yunhuai Liu; Zhiqing Hong; Haotian Wang; Shuai Wang._ MulSTE: A Multi-view Spatio-temporal Learning Framework with Heterogeneous Event Fusion for Demand-supply Prediction. (KDD '24)
 
 _**Li Lin**; Kaiwen Xia; Anqi Zheng; Shijie Hu; Shuai Wang._ Hierarchical Spatio-Temporal Graph Learning Based on Metapath Aggregation for Emergency Supply Forecasting. (CIKM '24)
+
+_Kaiwen Xia; **Li Lin**; Shuai Wang; Hai Wang; Desheng Zhang; Tian He._ A predict-then-optimize couriers allocation framework for emergency last-mile logistics. (KDD '23)
+
+_Zan Zong; **Li Lin**; Leilei Lin; Lijie Wen; Yu Sun._ STR: Hybrid Tensor Re-Generation to Break Memory Wall for DNN Training. (TPDS)
 
 _**Li Lin**; Yixin Cao; Lifu Huang; Shu'Ang Li; Xuming Hu; Lijie Wen; Jianmin Wang_ What Makes the Story Forward? Inferring Commonsense Explanations as Prompts for Future Event Generation(SIGIR’22)
 
