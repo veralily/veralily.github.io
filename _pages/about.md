@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Li Lin (林丽). I’m currently an Assistant Professor at the [School of Computer Science and Engineering in Southeast University](https://cse.seu.edu.cn/). 
-I am also affiliated with the [DiTing (Data FusIon and IoT IntelliGence) Lab](http://123.57.255.174:8080/#/home).
+Hi! My name is Li Lin (林丽). I’m currently an Assistant Professor at the [School of Computer Science and Engineering in Southeast University](https://cse.seu.edu.cn/).
 
 
 Education
