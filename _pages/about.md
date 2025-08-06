@@ -28,7 +28,10 @@ Publications
 ======
 You can also find the publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
-<span style="background-color: yellow;">New</span> &nbsp; _**Li Lin**; Kaiwen Xia; Haotian Shen; Shuai Wang._ CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling. (DASFAA '25)
+<span style="background-color: yellow;">New</span> &nbsp; _Kaiwen Xia, Li Lin, Shuai Wang, Anqi Zheng, Zhao-Dong Xu, Desheng Zhang, Tian He._ H2DGL: Adaptive Metapath-Based Dynamic Graph Learning for Supply Forecasting in Logistics System. (TITS <span style="color: #2ecc71">CCF-
+B, JCR Q1</span>)
+
+<span style="background-color: yellow;">New</span> &nbsp; _**Li Lin**; Kaiwen Xia; Haotian Shen; Shuai Wang._ CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling. (DASFAA '25 CCF-B)
 
 <span style="background-color: yellow;">New</span> &nbsp; _Xinwei Li; **Li Lin\***; Shuai Wang; Hanqian Wu._ Seeing Beyond Hallucinations: LLM-based Compositional Information Extraction for Multimodal Reasoning. (SIGIR '25)
 
