@@ -28,16 +28,17 @@ Publications
 ======
 You can also find the publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
-<span style="background-color: yellow;">New</span> &nbsp; _Kaiwen Xia, Li Lin, Shuai Wang, Anqi Zheng, Zhao-Dong Xu, Desheng Zhang, Tian He._ H2DGL: Adaptive Metapath-Based Dynamic Graph Learning for Supply Forecasting in Logistics System. (TITS <span style="color: #2ecc71">CCF-
-B, JCR Q1</span>)
+<span style="background-color: #ffd6a4;">2025</span> &nbsp; _Kaiwen Xia, Li Lin, Xinrui Zhang, Haotian Wang, Shuai Wang, Tian He._ A Transferable Spatio-temporal Learning Framework for Cross-city Logistics Demand Prediction (SIGKDD) <span style="color: #df6a6a">CCF-A</span>
 
-<span style="background-color: yellow;">New</span> &nbsp; _**Li Lin**; Kaiwen Xia; Haotian Shen; Shuai Wang._ CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling. (DASFAA '25 CCF-B)
+<span style="background-color: #ffd6a4;">2025</span> &nbsp; _Kaiwen Xia, Li Lin, Shuai Wang, Anqi Zheng, Zhao-Dong Xu, Desheng Zhang, Tian He._ H2DGL: Adaptive Metapath-Based Dynamic Graph Learning for Supply Forecasting in Logistics System. (TITS) <span style="color: #df6a6a">CCF-B, JCR Q1</span>
 
-<span style="background-color: yellow;">New</span> &nbsp; _Xinwei Li; **Li Lin\***; Shuai Wang; Hanqian Wu._ Seeing Beyond Hallucinations: LLM-based Compositional Information Extraction for Multimodal Reasoning. (SIGIR '25)
+<span style="background-color: #ffd6a4;">2025</span> &nbsp; _**Li Lin**; Kaiwen Xia; Haotian Shen; Shuai Wang._ CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling. (DASFAA) <span style="color: #df6a6a">CCF-B</span>
 
-<span style="background-color: yellow;">New</span> &nbsp;  _Kaiwen Xia, **Li Lin\***, Shuai Wang, Qi Zhang, Shuai Wang, and Tian He._ ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction. (KDD '25)
+<span style="background-color: #ffd6a4;">2025</span> &nbsp; _Xinwei Li; **Li Lin\***; Shuai Wang; Hanqian Wu._ Seeing Beyond Hallucinations: LLM-based Compositional Information Extraction for Multimodal Reasoning. (SIGIR) <span style="color: #df6a6a">CCF-A</span>
 
-<span style="background-color: yellow;">New</span> &nbsp;_Shuai Wang; Hai Wang; **Li Lin\***; Xiaohui Zhao; Tian He; Dian Shen._ HPST-GT: Full-Link Delivery Time Estimation Via Heterogeneous Periodic Spatial-Temporal Graph Transformer. (TKDE 2025)
+<span style="background-color: #ffd6a4;">2025</span> &nbsp;  _Kaiwen Xia, **Li Lin\***, Shuai Wang, Qi Zhang, Shuai Wang, and Tian He._ ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction. (KDD) <span style="color: #df6a6a">CCF-A</span>
+
+<span style="background-color: #ffd6a4;">2025</span> &nbsp;_Shuai Wang; Hai Wang; **Li Lin\***; Xiaohui Zhao; Tian He; Dian Shen._ HPST-GT: Full-Link Delivery Time Estimation Via Heterogeneous Periodic Spatial-Temporal Graph Transformer. (TKDE) <span style="color: #df6a6a">CCF-A, JCR Q1</span>
 
 _Xinwei Li; **Li Lin\***; Shuai Wang; Chen Qian_; Self-Improving Teacher Cultivates Better Student: Distillation Calibration for Multimodal Large Language Models. (SIGIR’24)
 
