@@ -40,8 +40,6 @@ You can also find the publications on <a href="{{site.author.googlescholar}}">my
 
 <span style="background-color: #ffd6a4;">2025</span> &nbsp; _Shuai Wang; Hai Wang; **Li Lin\***; Xiaohui Zhao; Tian He; Dian Shen._ HPST-GT: Full-Link Delivery Time Estimation Via Heterogeneous Periodic Spatial-Temporal Graph Transformer. (TKDE) <span style="color: #df6a6a">CCF-A, JCR Q1</span>
 
-<details>
-<summary>More...</summary>
 <span style="background-color: #c5f0a4;">2024</span> &nbsp; _Xinwei Li; **Li Lin\***; Shuai Wang; Chen Qian_; Self-Improving Teacher Cultivates Better Student: Distillation Calibration for Multimodal Large Language Models. (SIGIR) <span style="color: #df6a6a">CCF-A</span>
 
 <span style="background-color: #c5f0a4;">2024</span> &nbsp; _Zhiyuan Zhou, **Li Lin\***, Hai Wang, Xiaolei Zhou, Gong Wei, and Shuai Wang._ 2024. A Cross-Domain Method for Customer Lifetime Value Prediction in Supply Chain Platform[C]// In Proceedings of the ACM Web Conference 2024 (WWW) <span style="color: #df6a6a">CCF-A</span>
@@ -65,8 +63,6 @@ You can also find the publications on <a href="{{site.author.googlescholar}}">my
 <span style="background-color: #dcd1fa;">Before</span> &nbsp; _**Li Lin**; Zan Zong; Lijie Wen; Chen Qian; Shuang Li; Jianmin Wang_ MM-CPred: A Multi-task Predictive Model for Continuous-Time Event Sequences with Mixture Learning Losses. (DASFAA) <span style="color: #df6a6a">CCF-B</span>
 
 <span style="background-color: #dcd1fa;">Before</span> &nbsp; _**Li Lin**; Lijie Wen; Jianmin Wang._ MM-Pred: A Deep Predictive Model for Multi-attribute Event Sequence. (SDM) <span style="color: #df6a6a">CCF-B</span>
-
-</details>
 
 
 Students
