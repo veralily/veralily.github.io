@@ -64,6 +64,20 @@ You can also find the publications on <a href="{{site.author.googlescholar}}">my
 
 <span style="background-color: #dcd1fa;">Before</span> &nbsp; _**Li Lin**; Lijie Wen; Jianmin Wang._ MM-Pred: A Deep Predictive Model for Multi-attribute Event Sequence. (SDM) <span style="color: #df6a6a">CCF-B</span>
 
+
+Students
+======
+### Ph.D (co-advised with Prof. Shuai Wang)
+Xingyuan Liang, Kaiwen Xia*, Qi Zhang, Xinrui Zhang, Shengyu Zhang, Haijuan Wang
+
+### Master
+Minghao Shi, Tenglong Wang, Yuzhi Li, Zhihao Lin, Weiwei Meng, Jingzhe Chen, Yujia Zhan
+
+### Undergraduate Students
+Qian Long, Yiming Liu, Haotian Shen
+
+
+
 Prospective Students
 ======
 We sincerely welcome interested students!
