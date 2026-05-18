@@ -35,7 +35,7 @@ You can also find the publications on <a href="{{site.author.googlescholar}}">my
 
 <span style="background-color: #7f4a88;">2026</span> &nbsp; _Qi Zhang, **Li Lin**, Xinrui Zhang, Kaiwen Xia, Xinyan Du, Shuai Wang._ Patch First, Generate Then: A Debiased Diffusion Model for Multivariate Time Series Generation (ICASSP) <span style="color: #df6a6a">CCF-B</span>
 
-<span style="background-color: #7f4a88;">2026</span> &nbsp; _ **Li Lin**, Xinrui Zhang, Qi Zhang, Shuai Wang, Kaiwen Xia._ ORTCL: Towards Continual Learning of Time Series Foundation Models on Streaming Data via Orthogonal Rotation (AAAI) <span style="color: #df6a6a">CCF-A</span>
+<span style="background-color: #7f4a88;">2026</span> &nbsp; _**Li Lin**, Xinrui Zhang, Qi Zhang, Shuai Wang, Kaiwen Xia._ ORTCL: Towards Continual Learning of Time Series Foundation Models on Streaming Data via Orthogonal Rotation (AAAI) <span style="color: #df6a6a">CCF-A</span>
 
 <span style="background-color: #ffd6a4;">2025</span> &nbsp; _Yuzhi Li, Qi Zhang, **Li Lin**, Shuai Wang._ ITSPM: An Interpretable Time Series Prediction Model Based on Multi-Scale Feature Extraction (ICPADS) <span style="color: #df6a6a">CCF-C</span>
 
@@ -43,7 +43,7 @@ You can also find the publications on <a href="{{site.author.googlescholar}}">my
 
 <span style="background-color: #ffd6a4;">2025</span> &nbsp; _Junjie Lin, Kaiwen Xia, Xinrui Zhang, **Li Lin**, , Shuai Wang._ A Self-Supervised Heterogeneous Graph Learning Framework for Customer Value Prediction (ICPADS) <span style="color: #df6a6a">CCF-C</span>
 
-<span style="background-color: #ffd6a4;">2025</span> &nbsp; _ **Li Lin**, Yaochang Liu, Kaiwen Xia, Shuai Wang._ To Know What User Concerns: Conceptual Knowledge Reasoning for User Satisfaction Estimation in E-Commerce Dialogue Systems (CIKM) <span style="color: #df6a6a">CCF-B</span>
+<span style="background-color: #ffd6a4;">2025</span> &nbsp; _**Li Lin**, Yaochang Liu, Kaiwen Xia, Shuai Wang._ To Know What User Concerns: Conceptual Knowledge Reasoning for User Satisfaction Estimation in E-Commerce Dialogue Systems (CIKM) <span style="color: #df6a6a">CCF-B</span>
 
 <span style="background-color: #ffd6a4;">2025</span> &nbsp; _Kaiwen Xia, **Li Lin**, Xinrui Zhang, Haotian Wang, Shuai Wang, Tian He._ A Transferable Spatio-temporal Learning Framework for Cross-city Logistics Demand Prediction (SIGKDD) <span style="color: #df6a6a">CCF-A</span>
 
